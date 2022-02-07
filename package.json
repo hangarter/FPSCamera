@@ -3,5 +3,8 @@
     "displayName": "FPS Camera",
     "version": "0.1.0",
     "unity": "2021.2",
-    "description": "FPS Camera for use with new input system"
+    "description": "FPS Camera for use with new input system",
+    "dependencies": {
+        "com.unity.inputsystem": "1.2.0"
+    }
 }
