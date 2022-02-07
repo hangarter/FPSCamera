@@ -46,8 +46,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 550e331e0f2cff3478fd83005179a00f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turnSpeed: 10
+  turnSpeed: 30
+  flipYAxis: 1
+  angleLock: 45
   OnLook: {fileID: 11400000, guid: c7dd0f82094c3044b9059f604d54f354, type: 2}
+  OnMove: {fileID: 0}
 --- !u!1 &8096661621989834589
 GameObject:
   m_ObjectHideFlags: 0
