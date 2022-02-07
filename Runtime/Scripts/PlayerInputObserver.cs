@@ -6,6 +6,7 @@ namespace fpscamera
     public class PlayerInputObserver : MonoBehaviour
     {
         public PlayerInputEvent OnLookEvent;
+        public PlayerInputEvent OnMoveEvent;
 
         private void OnLook(InputValue value)
         {
@@ -14,8 +15,7 @@ namespace fpscamera
 
         private void OnMove(InputValue value)
         {
-            Debug.Log("On Move");
-            //onMove.TriggerInputEvent(inputAction);         
+            OnMoveEvent.TriggerInputEvent(value);
         }
 
     }

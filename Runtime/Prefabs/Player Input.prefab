@@ -76,3 +76,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   OnLookEvent: {fileID: 11400000, guid: c7dd0f82094c3044b9059f604d54f354, type: 2}
+  OnMoveEvent: {fileID: 11400000, guid: 0cd43b45a24c23f42acec503140792c1, type: 2}
