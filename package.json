@@ -1,7 +1,7 @@
 {
     "name": "com.github.fpscamera",
     "displayName": "FPS Camera",
-    "version": "0.1.0",
+    "version": "0.1.6",
     "unity": "2021.2",
     "description": "FPS Camera for use with new input system",
     "dependencies": {
