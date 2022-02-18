@@ -1,7 +1,7 @@
 {
     "name": "com.hangarter.fpscamera",
     "displayName": "FPS Camera",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "unity": "2021.2",
     "description": "FPS Camera for use with new input system",
     "dependencies": {
